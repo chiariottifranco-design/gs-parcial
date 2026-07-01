@@ -1,1 +1,3 @@
 "Como cliente quiero generar y guardar turnos médicos en un almanaque para organizar mi consultorio médico"
+
+Parcial avanzado
