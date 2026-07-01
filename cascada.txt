@@ -1,0 +1,5 @@
+1. Requerimientos
+2. Diseño
+3. Desarrollo
+4. Testing
+5. Implementación
