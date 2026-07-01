@@ -1,0 +1,4 @@
+Ceremonias: 
+-Sprint Planning: Planificación de lo que se hará en un sprint.
+
+-Daily Scrum: Reunión diaria de 15 minutos donde se comentan los avances y los problemas que surgen.
